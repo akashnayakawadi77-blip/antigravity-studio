@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+outputs/
+assets/
+python311/
+antigravity/
+*.mp4
+*.wav
+*.mp3
+*.log
